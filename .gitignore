@@ -1,0 +1,11 @@
+**/.idea
+**/.vscode
+
+.env
+/.cache/
+/coverage/
+/dist/
+/node_modules/
+npm-debug.log
+
+**/__snapshots__/**/*.diff.png
