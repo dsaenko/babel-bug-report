@@ -1,4 +1,4 @@
-## Local development
+### Local development
 
 ```
 npm install
